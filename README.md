@@ -1,3 +1,9 @@
+<div align="center">
+  <b>Personal Portfolio:</b>
+  <a href="https://github.com/bhung-chung/Bangla-Fake-News-Detection">Bangla Fake News Detection</a> |
+  <a href="https://github.com/bhung-chung/Drone-Object-Detection">Drone Object Detection</a> |
+  <a href="https://github.com/bhung-chung/Heart-Disease-Prediction">Heart Disease Prediction</a>
+</div><br>
 # Drone Human and Car Detection & Counting System
 
 ## Overview
@@ -369,3 +375,4 @@ The trained model weights and full tracking video are provided separately in the
 ## Author
 
 Developed for the Antlings Internship Program technical assessment.
+
